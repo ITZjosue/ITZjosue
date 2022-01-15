@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Full Stack developtment student at SoyHenry Bootcamp
+<a href='#'>Hola </a>
 <!--
 **ITZjosue/ITZjosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
