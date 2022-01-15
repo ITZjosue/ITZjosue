@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm a Full Stack developtment student at SoyHenry Bootcamp
-<a href='#'>Hola </a>
+
+<img src='https://www.mundocuentas.com/wp-content/uploads/2020/11/Linkedin-logo-mundocuentas.jpg' width='100px' height='50px'/>
+
 <!--
 **ITZjosue/ITZjosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
