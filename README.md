@@ -6,10 +6,10 @@ I'm a Full Stack developtment student at SoyHenry Bootcamp
 
 ## Some Projects 
 * <a href='https://itzjosue.github.io/Portfolio/'>Portfolio</a>
-<img src='./img/portafolio.png' />
+<img src='img/portafolio.png' />
 Tech stack: React, Javascript, HTML5, CSS3
 
 * <a href='https://vigorous-wing-a25aba.netlify.app/' >Movies App</a>
 
-<img src='./img/movies.png' />
+<img src='img/movies.png' />
 Tech stack: React, Javascript, Styled-components
