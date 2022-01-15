@@ -4,19 +4,12 @@ I'm a Full Stack developtment student at SoyHenry Bootcamp
 
 <a href='https://www.linkedin.com/in/josuelamas/'><img src='https://www.mundocuentas.com/wp-content/uploads/2020/11/Linkedin-logo-mundocuentas.jpg' width='100px' height='50px'/></a>
 
-## <a href='https://itzjosue.github.io/Portfolio/'>Portafolio</a>
+## Some Projects 
+* <a href='https://itzjosue.github.io/Portfolio/'>Portfolio</a>
+<img src='./img/portafolio.png' />
+Tech stack: React, Javascript, HTML5, CSS3
 
-<!--
-**ITZjosue/ITZjosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* <a href='https://vigorous-wing-a25aba.netlify.app/' >Movies App</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src='./img/movies.png' />
+Tech stack: React, Javascript, Styled-components
