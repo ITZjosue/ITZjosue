@@ -2,7 +2,9 @@
 
 I'm a Full Stack developtment student at SoyHenry Bootcamp
 
-<img src='https://www.mundocuentas.com/wp-content/uploads/2020/11/Linkedin-logo-mundocuentas.jpg' width='100px' height='50px'/>
+<a href='https://www.linkedin.com/in/josuelamas/'><img src='https://www.mundocuentas.com/wp-content/uploads/2020/11/Linkedin-logo-mundocuentas.jpg' width='100px' height='50px'/></a>
+
+## <a href='https://itzjosue.github.io/Portfolio/'>Portafolio</a>
 
 <!--
 **ITZjosue/ITZjosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
