@@ -6,7 +6,8 @@ I'm a Full Stack developtment student at SoyHenry Bootcamp
 
 ## Some Projects 
 * <a href='https://itzjosue.github.io/Portfolio/'>Portfolio</a>
-<img src='https://github.com/ITZjosue/ITZjosue/blob/main/img/movies.png' />
+<img src='https://github.com/ITZjosue/ITZjosue/blob/ea786863aff20519679a837f8df2555395821e5f/img/movies.PNG
+' />
 <img src='https://i.postimg.cc/XNm3y6sL/portafolio.png' />
 Tech stack: React, Javascript, HTML5, CSS3
 
