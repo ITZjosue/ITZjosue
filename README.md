@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Fullstack developer who loves learning new things about tech industry
+Fullstack web developer, currently working at Bsale
 
 <a href='https://www.linkedin.com/in/josuelamas/'><img src='https://www.mundocuentas.com/wp-content/uploads/2020/11/Linkedin-logo-mundocuentas.jpg' width='100px' height='50px'/></a>
 
